@@ -1,4 +1,14 @@
-# I'm Joshua 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaMartine&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JoshuaMartine)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+  <a href="https://github.com/JoshuaMartine/JoshuaMartine">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaMartine&layout=compact&theme=transparent">
+</a>
+ <br> <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JoshuaMartine&theme=transparent">
+  
+
+  <br>
+
+ 
+</p>
